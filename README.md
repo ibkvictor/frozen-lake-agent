@@ -8,14 +8,13 @@
 ### setting learning rate at 0.5 the agent achieve a good amount of accumulated reward and the q table changed rapidly
 
 ## number of episodes:
-### increasing the number total number of episode generally increased the accumulated reward and change in the qtable was significant.
-
-
+  ### increasing the number total number of episode generally increased the accumulated reward and change in the qtable was significant.
 
 ### reinforcement learning: q-learning
+
 ### using environments in the gym package https://gym.openai.com/
 ### implementing epsilon greedy algorithm with exponential decay
-## I encourage you to implement this frozen_lake.ipynb and learn to something cool.
+## I employ you to implement this frozen_lake.ipynb and learn to something cool.
 
 ## please encourage me by forking this repo and giving it a star.
 ### Your friend
