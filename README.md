@@ -1,6 +1,6 @@
 # Hello World, today (August 25, 2020). I trained an agent to play a navigate successfully a game called frozen lake
-![alt text](https://github.com/ibkvictor/ibkvictor/blob/master/game_screenshot1.png?raw=true)
-![alt text](https://github.com/ibkvictor/ibkvictor/blob/master/game_screenshot2.png?raw=true)
+![alt text](https://github.com/ibkvictor/frozen-lake-agent/blob/master/game_screenshot1.png?raw=true)
+![alt text](https://github.com/ibkvictor/frozen-lake-agent/blob/master/game_screenshot2.png?raw=true)
 
 ## The game can be found at https://gym.openai.com/
 ## DISCOVERIES:
