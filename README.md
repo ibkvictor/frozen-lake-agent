@@ -20,7 +20,7 @@
 
 ### using environments in the gym package https://gym.openai.com/
 ### implementing epsilon greedy algorithm with exponential decay
-## I employ you to implement the https://github.com/ibkvictor/frozen-lake-agent/blob/master/frozen_lake.ipynb and learn to something cool.
+## I employ you to implement the https://github.com/ibkvictor/frozen-lake-agent/blob/master/frozen_lake.ipynb and learn something cool.
 
 ## please encourage me by forking this repo and giving it a star.
 ### Your friend
