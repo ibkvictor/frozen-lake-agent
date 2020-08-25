@@ -3,12 +3,12 @@
 ## DISCOVERIES:
 
 ## learing rate:
-### setting learning rate at 0.1 the qtable change by very little and the accumulated reward was also low
-### setting learning rate at 0.7 increasing accumulated reward significantly , but the qtable changed rapidly
-### setting learning rate at 0.5 the agent achieve a good amount of accumulated reward and the q table changed rapidly
+#### setting learning rate at 0.1 the qtable change by very little and the accumulated reward was also low
+#### setting learning rate at 0.7 increasing accumulated reward significantly , but the qtable changed rapidly
+#### setting learning rate at 0.5 the agent achieve a good amount of accumulated reward and the q table changed rapidly
 
 ## number of episodes:
-  ### increasing the number total number of episode generally increased the accumulated reward and change in the qtable was significant.
+  #### increasing the number total number of episode generally increased the accumulated reward and change in the qtable was significant.
 
 ### reinforcement learning: q-learning
 
