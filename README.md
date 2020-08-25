@@ -1,8 +1,6 @@
-## Hello World, today (August 25, 2020). I trained an agent to play a navigate successfully a game called frozen lake
+# Hello World, today (August 25, 2020). I trained an agent to play a navigate successfully a game called frozen lake
 ## The game can be found at https://gym.openai.com/
-## Discoveries:
-###
-## Things learnt:
+## DISCOVERIES:
 
 ## learing rate:
 ### setting learning rate at 0.1 the qtable change by very little and the accumulated reward was also low
