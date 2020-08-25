@@ -7,11 +7,11 @@
 
 ## learing rate:
 ### setting learning rate at 0.1 the qtable change by very little and the accumulated reward was also low
-![alt text](https://github.com/ibkvictor/ibkvictor/blob/master/observation_learning_rate_0.1.png?raw=true)
+![alt text](https://github.com/ibkvictor/frozen-lake-agent/blob/master/observation_learning_rate_0.1.png?raw=true)
 ### setting learning rate at 0.7 increasing accumulated reward significantly , but the qtable changed rapidly
-![alt text](https://github.com/ibkvictor/ibkvictor/blob/master/observation_learning_rate_0.7.png?raw=true)
+![alt text](https://github.com/ibkvictor/frozen-lake-agent/blob/master/observation_learning_rate_0.7.png?raw=true)
 ### setting learning rate at 0.5 the agent achieve a good amount of accumulated reward and the q table changed rapidly
-![alt text](https://github.com/ibkvictor/ibkvictor/blob/master/observation_learning_rate_0.5.png?raw=true)
+![alt text](https://github.com/ibkvictor/frozen-lake-agent/blob/master/observation_learning_rate_0.5.png?raw=true)
 
 ## number of episodes:
   ### increasing the number total number of episode generally increased the accumulated reward and change in the qtable was significant.
